@@ -1,6 +1,6 @@
 {
   "name": "clarifyio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Node module for Op3nvoice api",
   "main": "index.js",
   "scripts": {
