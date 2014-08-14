@@ -1,0 +1,5 @@
+ --require should
+ --reporter dot
+ --recursive
+ --slow 10s
+ --timeout 120s

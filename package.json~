@@ -1,0 +1,28 @@
+{
+  "name": "clarifyio",
+  "version": "0.0.0",
+  "description": "Node module for Op3nvoice api",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Andrey Belchikov, Scott Barstow",
+  "license": "MIT",
+  "keywords": [
+    "op3nvoice",
+    "clarify",
+    "clarifyio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bandwidth/clarifyio.git"
+  },
+  "dependencies": {
+    "debug": "^0.8.1",
+    "querystring": "~0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.19.0",
+    "should": "~3.3.1"
+  }
+}
